@@ -1,0 +1,1 @@
+# KiCAD-StrainGauge-2-Channel
