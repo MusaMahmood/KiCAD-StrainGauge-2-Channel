@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name StrainGauge2-rescue)(type Legacy)(uri ${KIPRJMOD}/StrainGauge2-rescue.lib)(options "")(descr ""))
+  (lib (name EEG_ADS1299_2-cache)(type Legacy)(uri ${KIPRJMOD}/libs_tmp/EEG_ADS1299_2-cache.lib)(options "")(descr ""))
+  (lib (name EEG_ADS1299_2-rescue)(type Legacy)(uri ${KIPRJMOD}/libs_tmp/EEG_ADS1299_2-rescue.lib)(options "")(descr ""))
+  (lib (name EEG_ADS1299-cache)(type Legacy)(uri ${KIPRJMOD}/libs_tmp/EEG_ADS1299-cache.lib)(options "")(descr ""))
+  (lib (name emg_circuit_2_ext_amp-cache)(type Legacy)(uri ${KIPRJMOD}/libs_tmp/emg_circuit_2_ext_amp-cache.lib)(options "")(descr ""))
+  (lib (name emg_circuit_2_ext_amp-rescue)(type Legacy)(uri ${KIPRJMOD}/libs_tmp/emg_circuit_2_ext_amp-rescue.lib)(options "")(descr ""))
+)
